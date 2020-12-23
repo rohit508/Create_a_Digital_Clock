@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(221, 213, 213);
+}
+
+
+
+
+.container{
+    margin-left: 40%;
+}
+
+
+.Time{
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 100px;
+    font-weight: bold;
+
+
+}
+
+.Timebtn{
+    padding: 10px;
+    border: none;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    font-size: 25px;
+    margin-top: -5px;
+    outline: none;
+    margin-left: 30px;
+    font-weight: bold;
+    
+}
+
+
+.Timebtn:hover{
+    background-color: rgb(131, 128, 128);
+    color: black;
+}
