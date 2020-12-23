@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Create_a_Digital_Clock/static/css/main.47b16708.chunk.css",
+    "main.js": "/Create_a_Digital_Clock/static/js/main.dd013417.chunk.js",
+    "main.js.map": "/Create_a_Digital_Clock/static/js/main.dd013417.chunk.js.map",
+    "runtime-main.js": "/Create_a_Digital_Clock/static/js/runtime-main.921bcb39.js",
+    "runtime-main.js.map": "/Create_a_Digital_Clock/static/js/runtime-main.921bcb39.js.map",
+    "static/js/2.fc93feb6.chunk.js": "/Create_a_Digital_Clock/static/js/2.fc93feb6.chunk.js",
+    "static/js/2.fc93feb6.chunk.js.map": "/Create_a_Digital_Clock/static/js/2.fc93feb6.chunk.js.map",
+    "index.html": "/Create_a_Digital_Clock/index.html",
+    "static/css/main.47b16708.chunk.css.map": "/Create_a_Digital_Clock/static/css/main.47b16708.chunk.css.map",
+    "static/js/2.fc93feb6.chunk.js.LICENSE.txt": "/Create_a_Digital_Clock/static/js/2.fc93feb6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.921bcb39.js",
+    "static/js/2.fc93feb6.chunk.js",
+    "static/css/main.47b16708.chunk.css",
+    "static/js/main.dd013417.chunk.js"
+  ]
+}
